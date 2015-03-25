@@ -1,0 +1,11 @@
+=encoding utf8
+
+=head1 Shlomi Fish’s EvilPHish Emblem
+
+See L<http://www.shlomifish.org/meta/FAQ/#evilphish-emblem> .
+
+Credits go to the UserFriendly.org comic strip:
+
+L<http://ars.userfriendly.org/cartoons/?id=20030803> .
+
+=cut
